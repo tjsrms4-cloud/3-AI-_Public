@@ -1,0 +1,6 @@
+{
+  "name": "Task Distiller",
+  "description": "AI-powered meeting notes to-do transformer that parses raw minutes into structured task lists grouped by assignee and deadline with contextual deduction, scheduling, and error flags.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
